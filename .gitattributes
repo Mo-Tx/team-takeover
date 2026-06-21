@@ -1,4 +1,4 @@
-buildallprojects text
+buildallprojects text eol=lf
 vpc binary
 
 *.sh text
