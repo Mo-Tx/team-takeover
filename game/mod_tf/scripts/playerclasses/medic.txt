@@ -1,0 +1,7 @@
+PlayerClass
+{
+	"name" "Medic"
+	"model" "models/player/medic.mdl"
+	"health_max" "500"
+	"armor_max" "300"
+}

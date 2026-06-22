@@ -1,0 +1,9 @@
+"Armor.Touch"
+{
+    "channel"    "CHAN_ITEM"
+    "volume"     "1"
+    "soundlevel" "SNDLVL_75dB"
+    "pitch"      "PITCH_NORM"
+
+    "wave"       ")items/health_pickup.wav"
+}

@@ -1,7 +1,8 @@
 "GameInfo"
 {
-	game					"Frog Fortress 2"
+	game					"Team Takeover"
 	type 					multiplayer_only
+	icon					"resource/icon"
 	nomodels				1
 	nohimodel 				1
 	nocrosshair				0
